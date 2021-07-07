@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Karthik/Production/MLFlow-Prod/src/sklearn_elasticnet_model/mlruns/0/b4de7786444e4baeac414a65a657cf08/artifacts
+end_time: 1625644336994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: b4de7786444e4baeac414a65a657cf08
+run_uuid: b4de7786444e4baeac414a65a657cf08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1625644336978
+status: 4
+tags: []
+user_id: apple

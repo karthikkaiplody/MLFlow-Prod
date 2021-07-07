@@ -1,0 +1,5 @@
+artifact_location: file:///Users/Karthik/Production/MLFlow-Prod/src/sklearn_elasticnet_model/mlruns/0
+experiment_id: '0'
+lifecycle_stage: active
+name: ElasticNet_Wine_Quality_Pred
+tags: {}
