@@ -4,7 +4,7 @@ Name   | Description
 -------|------------
 Data   | Wine Quality Dataset from UCI repository
 Algorithm | Elasticnet
-Tools  | MLFlow, Scikit-learn
+Tools  | MLFlow, Scikit-learn, numpy, pandas
 
 
 
