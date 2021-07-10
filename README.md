@@ -1,5 +1,5 @@
 # MLFlow-Prod
-Tracking and Serving the ML models using MLFlow
+Tracking and Serving the ML models using MLFlow with the stored Artifacts.
 Name   | Description
 -------|------------
 Data   | Wine Quality Dataset from UCI repository
